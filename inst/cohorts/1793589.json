@@ -1,0 +1,883 @@
+{
+  "ExpressionLimit": {"Type": "All"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "ConceptSets": [{
+    "expression": {"items": [
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3037187,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1557-8",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Mass/volume] in Venous blood",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4041723,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "167087006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Serum fasting glucose measurement",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4041725,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "167096006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Plasma fasting glucose measurement",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37173107,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "571000237106",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Fasting glucose molar concentration in serum",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Observable Entity",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37173227,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "58111000237107",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Fasting glucose molar concentration in plasma",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Observable Entity",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3025791,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16913-6",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Presence] in Urine",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 46235168,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "76629-5",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Moles/volume] in Blood",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3041651,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "53114-5",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Moles/volume] in Urine",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 40766113,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "63382-6",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Mass/volume] in Urine",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3966401,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "101476-0",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Moles/volume] in Venous blood",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3036671,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1556-0",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Mass/volume] in Capillary blood",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 40481772,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "442033004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Measurement of fasting glucose in urine specimen using dipstick",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3002574,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "6764-5",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Presence] in Urine by Test strip",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3018251,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "14771-0",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Moles/volume] in Serum or Plasma",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3037110,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1558-6",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Mass/volume] in Serum or Plasma",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 46236950,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "77145-1",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Moles/volume] in Serum, Plasma or Blood",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3017703,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "14770-2",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Moles/volume] in Capillary blood by Glucometer",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3035250,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "41604-0",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Mass/volume] in Capillary blood by Glucometer",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4182052,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "52302001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Glucose measurement, fasting",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4156660,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "271062006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Fasting blood glucose measurement",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3002009,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1554-5",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --12 hours fasting",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3024762,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "17865-7",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --8 hours fasting",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36660046,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95102-0",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose post fasting and meal stimulation panel - Serum or Plasma",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 40765583,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "62851-1",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "PhenX - fasting plasma glucose for diabetes screening - blood draw protocol 140801",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Observation",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 40766113,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "63382-6",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Mass/volume] in Urine",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3041651,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "53114-5",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Moles/volume] in Urine",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3025791,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16913-6",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Presence] in Urine",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3002574,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "6764-5",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Fasting glucose [Presence] in Urine by Test strip",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3004501,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "2345-7",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3002009,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1554-5",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --12 hours fasting",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21494214,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "80959-0",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --1.5 hours post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36660183,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95078-2",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --15 min post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3026071,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10449-7",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --1 hour post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36660184,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95103-8",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --2.5 hours post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3021737,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1521-4",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --2 hours post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36660135,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95105-3",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --30 min post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36659783,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95104-6",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --3.5 hours post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36659954,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95106-1",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --3 hours post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36660356,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95107-9",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --4.5 hours post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36660344,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95108-7",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --4 hours post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36660564,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95109-5",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --5 hours post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3019431,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "12614-4",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --7 hours post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3024762,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "17865-7",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --8 hours fasting",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 3026536,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "16915-1",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose [Mass/volume] in Serum or Plasma --post meal",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 36660046,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95102-0",
+          "VOCABULARY_ID": "LOINC",
+          "CONCEPT_NAME": "Glucose post fasting and meal stimulation panel - Serum or Plasma",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Lab Test",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": true,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 40481772,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "442033004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Measurement of fasting glucose in urine specimen using dipstick",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45770408,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "928041000000101",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Baseline blood glucose concentration",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Observable Entity",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44811256,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "873331000000109",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Blood glucose level before breakfast",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Observable Entity",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44805415,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "774331000000109",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Blood glucose range before breakfast",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Observable Entity",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44805315,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "773781000000106",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Blood glucose range overnight",
+          "DOMAIN_ID": "Measurement",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Observable Entity",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      }
+    ]},
+    "name": "FPG ",
+    "id": 0
+  }],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "EndDate",
+    "Offset": 0
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"Measurement": {
+      "MeasurementTypeExclude": false,
+      "CodesetId": 0
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}
