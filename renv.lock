@@ -432,13 +432,13 @@
 		},
 		"CohortDiagnostics" : {
 			"Package" : "CohortDiagnostics",
-			"Version" : "2.2.4",
+			"Version" : "2.2.3",
 			"Source" : "GitHub",
 			"RemoteType" : "github",
 			"RemoteHost" : "api.github.com",
 			"RemoteRepo" : "CohortDiagnostics",
 			"RemoteUsername" : "ohdsi",
-			"RemoteRef" : "v2.2.4"
+			"RemoteRef" : "v2.2.3"
 		},
 		"OhdsiSharing" : {
 			"Package" : "OhdsiSharing",
@@ -452,3 +452,4 @@
 		}
 	}
 }
+
