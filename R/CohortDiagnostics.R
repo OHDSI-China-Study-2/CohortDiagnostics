@@ -202,7 +202,7 @@ execute <- function(connectionDetails,
                                                                    excludedCovariateConceptIds = c(),
                                                                    addDescendantsToExclude = FALSE,
                                                                    includedCovariateIds = c()
-                                                                   ),
+                                                                   )
     #runTemporalCohortCharacterization = TRUE,
     #temporalCovariateSettings = FeatureExtraction::createTemporalCovariateSettings(
       #useConditionOccurrence = TRUE,
@@ -224,4 +224,5 @@ execute <- function(connectionDetails,
     connection = NULL
   )
 }
+
 
