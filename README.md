@@ -18,7 +18,7 @@ How to run
 2. Open your study package in RStudio. Use the following code to install all the dependencies:
 
 	```r
-	.libPaths(C:/link your own package direction) #Change to your pacakge library path
+	.libPaths(C:/path/to/your/package/library) #Change to your pacakge library path
  	renv::restore()
 	```
 
@@ -38,7 +38,7 @@ How to run
 
 	```r
 	#### Use R package 4.1.3 version and align dependencies ####
-	.libPaths("C:/link your own Package direction")
+	.libPaths("C:/path/to/your/package/library")
  	
 	# Locale: use system default or UTF-8 (cross-platform)
 	Sys.setlocale(category = "LC_ALL", locale = "") # or "en_GB.UTF-8"
@@ -122,4 +122,5 @@ APACt2dmNetworkStudies was developed in ATLAS and R Studio.
 ### Development status
 
 Unknown
+
 
